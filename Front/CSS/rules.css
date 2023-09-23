@@ -1,0 +1,75 @@
+html{
+    overflow-x: hidden;
+}
+
+header{
+    background-color: #65CBD3;
+}
+
+h1 a
+{
+    font-family: 'Permanent Marker', cursive;
+    color: #A67D52;
+    margin: 0px 30px;
+}
+
+h1 a:hover{
+    text-decoration: none;
+    color: #9b6c3a;
+}
+
+.btnHeader{
+    margin: 10px 10px;
+    border: solid #A67D52 1px;
+    color: #A67D52;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.btnHeader:hover{
+    border: solid #9b6c3a 1px;
+    color: #9b6c3a;
+    background-color: rgba(155, 108, 58, 0.2);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+span#username{
+    font-family: 'Permanent Marker';
+    color: #A67D52;
+    font-size: 2rem;
+}
+
+body{
+    background-color: rgba(100, 202, 211, 0.5);
+}
+
+main{
+    margin: 80px 0px;
+}
+
+.boat{
+    height: 80px;
+    margin-right: 50px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 50px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+main p{
+    font-size: 1.3rem;
+}
+
+footer{
+    padding-left: 20px;
+    font-style: italic;
+}

@@ -1,0 +1,65 @@
+html{
+    overflow-x: hidden;
+}
+
+header{
+    background-color: #65CBD3;
+}
+
+h1 a
+{
+    font-family: 'Permanent Marker', cursive;
+    color: #A67D52;
+    margin: 0px 30px;
+}
+
+h1 a:hover{
+    text-decoration: none;
+    color: #9b6c3a;
+}
+
+span#username{
+    font-family: 'Permanent Marker';
+    color: #A67D52;
+    font-size: 2rem;
+}
+
+.btnHeader{
+    margin: 10px 10px;
+    border: solid #A67D52 1px;
+    color: #A67D52;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.btnHeader:hover{
+    border: solid #9b6c3a 1px;
+    color: #9b6c3a;
+    background-color: rgba(155, 108, 58, 0.2);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+body{
+    background-color: rgba(100, 202, 211, 0.5);
+}
+
+main{
+    margin: 80px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    margin-bottom: 10px;
+}
+
+.btnRelative{
+    position: relative;
+    top: 360px;
+}
+
+footer{
+    padding-left: 20px;
+    margin-top: -4%;
+    font-style: italic;
+}

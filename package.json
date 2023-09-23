@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "express-socket.io-session": "^1.3.5",
+    "express-validator": "^6.14.0",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.4.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "battleship",
+  "description": "ProjetJS",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurelienDgn/ProjetJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aurelienDgn/ProjetJS/issues"
+  },
+  "homepage": "https://github.com/aurelienDgn/ProjetJS#readme"
+}
